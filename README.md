@@ -40,3 +40,4 @@ AGREGAR COMPARACIÓN DE REGIONES
 OPCIONAL:
 En la página principal, se pondrá el histórico general del mundo y de las diferentes regiones. 
 Se pondrá debajo de cada país recomendaciones enfocadas a la implementación de diferentes energías renovables, basados en el tipo de energías usadas en  la región 
+---
